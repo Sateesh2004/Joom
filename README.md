@@ -1,6 +1,6 @@
 
 
-# Intervue
+# Joom
 The Joom App is a dynamic real-time video calling web application designed to deliver seamless communication experiences for users. Built using modern technologies like Getstream and Next.js, the application supports group video calls for up to 7 participants, screen sharing, and real-time chat, making it ideal for virtual meetings and collaboration. 
 
 ## Table of Contents
